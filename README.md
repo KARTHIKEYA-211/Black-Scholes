@@ -3,4 +3,4 @@ install dependencies :- pip install streamlit numpy pandas matplotlib seaborn sc
 
 
 
-to run the project :- run streamlit Main.py
+to run the project :- streamlit run Main.py
